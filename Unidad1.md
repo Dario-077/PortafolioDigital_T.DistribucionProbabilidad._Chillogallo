@@ -12,6 +12,10 @@
 
  [Actividad APE03](APE03_DARIO_CHILLOGALLO.ipynb)  
 
+ [Actividad APE04](_APE5_GrupoC.ipynb)  
+
+ [Actividad APE05](APE6_GrupoC.ipynb)
+
  
  
 
