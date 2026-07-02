@@ -31,5 +31,11 @@
 **Explicacion:**  
 - Interpretar pruebas de hipotesis parametricas tanto independientes como pareadas
 - Aplicación de conceptos clave como A/B testing y T de Weltch
+---
 
-
+## **Examen de final de Unidad**
+📌[Examen de fin de Unidad II](ExamenUnidad2_ChillogalloDario.ipynb)  
+**Explicación:**
+- Aplicación de inferencia estadistica en el DATASEET ENEMDU
+- Uso de Z, T de Wertch y A/B testing
+- Analisís e interpretación de los resultados
