@@ -25,6 +25,11 @@
 - Se construyen pruebas de hipoitesis parametricas Z o T para tomar decisiones formales sobre parametros poblacionales
 - Se definen hipotesis nulas o alternas, calculando el estadistico de prueba y el valor p
 
+---
+
 📌[APE10](APE11_GrupoC.ipynb)
+**Explicacion:**  
+- Interpretar pruebas de hipotesis parametricas tanto independientes como pareadas
+- Aplicación de conceptos clave como A/B testing y T de Weltch
 
 
